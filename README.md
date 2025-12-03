@@ -119,9 +119,11 @@ Emma automatically detects and remembers:
 - **Emotional Awareness**: Reaches out if you seemed troubled in previous conversations
 - **Celebration**: Remembers to ask about positive events and achievements
 
-## 💡 Usage Examples
+## 💡 User Stories/Journey/Example
 
 ### Natural Conversations with Memory
+
+Note: These are the expected responses. They have not been properly implemented currently.
 
 ```
 User: "I have a job interview tomorrow morning. I'm pretty nervous about it!"
@@ -153,15 +155,76 @@ Emma: "I've been thinking about you since you mentioned feeling stressed about w
 ### Memory & Relationship Tracking
 
 ```
-User: "Had dinner with my sister Sarah last night. She's going through a rough breakup."
+User: "Had dinner with my sister Sarah last night. She just got promoted to senior manager!"
 
-Emma: "It sounds like Sarah is lucky to have such a caring sibling like you during this difficult time 💕
-       Breakups are never easy. How is she holding up? And how are you feeling about supporting her?"
+Emma: "That's absolutely wonderful news about Sarah's promotion! 🎉 You must be so proud of her.
+       Senior manager is such a big achievement! How did she celebrate? And how are you feeling
+       about having such a successful sister?"
 
 [Future conversation:]
 
-Emma: "How's your sister Sarah doing with everything she's been going through?
-       I remember you mentioned she was having a tough time with her breakup."
+Emma: "How's your sister Sarah settling into her new senior manager role?
+       I remember you were so excited about her promotion when we talked before! 💼✨"
+```
+
+### Health & Wellness Journey
+
+```
+User: "Started going to the gym this week. I'm really out of shape but trying to get healthier."
+
+Emma: "That's such a positive step you're taking for yourself! 💪 Starting a fitness journey takes real
+       courage, especially when you're feeling out of shape. What kind of workouts are you doing?
+       I'm proud of you for prioritizing your health! 😊"
+
+[Later check-in:]
+
+Emma: "How's your gym routine going? I remember you mentioned starting to work out this week.
+       Are you feeling good about the progress you're making? 🏃‍♀️"
+```
+
+### Academic & Learning Support
+
+```
+User: "I'm taking this online programming course but it's way harder than I expected. Feeling overwhelmed."
+
+Emma: "Learning programming can definitely feel overwhelming at first - you're not alone in feeling this way! 💙
+       It's actually really admirable that you're challenging yourself with something new.
+       What part of the course is giving you the most trouble? Maybe we can talk through it?"
+
+[Follow-up after a few days:]
+
+Emma: "I've been wondering how your programming course is going! Are you finding it any easier now,
+       or still feeling overwhelmed? Remember, every expert was once a beginner 🌟"
+```
+
+### Life Milestone Celebrations
+
+```
+User: "Just moved into my first apartment today! It's small but it's all mine. I'm so excited!"
+
+Emma: "Oh my goodness, congratulations on your first apartment! 🏡✨ That's such a huge milestone!
+       I can feel your excitement through your message. What's your favorite thing about the space?
+       This must feel so empowering to have your own place!"
+
+[Later proactive message:]
+
+Emma: "How are you settling into your new apartment? I remember how excited you were on moving day! 😊
+       Have you gotten it decorated the way you want? I'd love to hear how you're making it feel like home! 🏠"
+```
+
+### Creative Projects & Hobbies
+
+```
+User: "I've been working on this painting for weeks and I just can't get it right. It's so frustrating!"
+
+Emma: "I can hear how frustrated you are with your painting, and that's completely understandable 🎨💙
+       Art can be so challenging because you have such a clear vision of what you want to create.
+       What specifically about it isn't feeling right to you? Sometimes talking through it helps!"
+
+[Follow-up check-in:]
+
+Emma: "I've been thinking about your painting project! Have you had any breakthroughs with it lately?
+       I remember how passionate you were about getting it just right 🎭✨"
 ```
 
 ## 🎮 How to Use
@@ -255,7 +318,5 @@ This is a minimal but functional empathetic AI assistant. Areas for enhancement:
 MIT License - Feel free to use, modify, and distribute
 
 ---
-
-**Built with 💙 by [MAffan1](https://github.com/MAffan1)**
 
 _Emma is designed to be a caring, empathetic companion that genuinely remembers and cares about your wellbeing._
