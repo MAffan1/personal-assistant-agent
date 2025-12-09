@@ -23,7 +23,7 @@ MAX_CONVERSATION_CONTEXT = 6
 
 # LLM response parameters
 LLM_TEMPERATURE = 0.8  # Higher = more creative/varied responses
-LLM_MAX_TOKENS = 300
+LLM_MAX_TOKENS = 200
 
 # ============= UI SETTINGS =============
 
